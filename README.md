@@ -1,4 +1,4 @@
-# Enterprise Network Design with High Availability (Cisco Packet Tracer)
+# Design with High Availability (Cisco Packet Tracer)
 
 ## 📌 Project Overview
 This project demonstrates the design and configuration of a resilient enterprise network topology using Cisco Packet Tracer. The primary goal is to ensure high availability, redundancy, and efficient traffic flow across the network using industry-standard routing and switching protocols.
